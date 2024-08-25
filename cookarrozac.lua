@@ -1,3 +1,5 @@
 return {
-  487237 -- OWNER
+  487237, -- OWNER
+  142986, -- mrranderson
+  178457 -- Zress
 }
