@@ -3,5 +3,6 @@ return {
   142986, -- mrranderson
   178457, -- Zress
   842560, -- si item
-  850792 -- snaa
+  850792, -- snaa
+  164208 -- yantoTzy
 }
