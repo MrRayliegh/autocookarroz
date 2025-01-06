@@ -9,5 +9,6 @@ return {
   836729, -- mokahh
   861671, -- mokahh2
   704031, -- StillGoldLane
-  869723 --clowco
+  869723, --clowco
+  157588 -- Verba
 }
