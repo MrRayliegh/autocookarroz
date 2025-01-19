@@ -11,5 +11,6 @@ return {
   704031, -- StillGoldLane
   869723, --clowco
   157588, -- Verba
-  895065 -- watkoskiloz
+  895065, -- watkoskiloz
+  874966 -- eranzol
 }
