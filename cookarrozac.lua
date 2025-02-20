@@ -12,5 +12,6 @@ return {
   869723, --clowco
   157588, -- Verba
   895065, -- watkoskiloz
-  874966 -- eranzol
+  874966, -- eranzol
+  565685 -- murim
 }
