@@ -13,5 +13,6 @@ return {
   157588, -- Verba
   895065, -- watkoskiloz
   874966, -- eranzol
-  565685 -- murim
+  565685, -- murim
+  827015 -- Rz
 }
