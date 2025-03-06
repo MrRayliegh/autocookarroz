@@ -14,5 +14,6 @@ return {
   895065, -- watkoskiloz
   874966, -- eranzol
   565685, -- murim
-  827015 -- Rz
+  827015, -- Rz
+  921194 -- Jo
 }
