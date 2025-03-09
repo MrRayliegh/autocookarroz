@@ -17,5 +17,6 @@ return {
   827015, -- Rz
   921194, -- Jo
   832810, -- Frizz
-  752499 -- Salaman
+  752499, -- Salaman
+  671348 -- Tamsy
 }
