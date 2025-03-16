@@ -18,6 +18,6 @@ return {
   921194, -- Jo
   832810, -- Frizz
   752499, -- Salaman
-  671348, -- Tamsy
+  671348,705193, -- Tamsy2
   210934 -- chamsky
 }
