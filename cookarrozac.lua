@@ -20,6 +20,6 @@ return {
   752499, -- Salaman
   671348,705193, -- Tamsy2
   210934, -- chamsky
-  758812, -- Dikasukatahu
+  758812,520158, -- Dikasukatahu nuenge
   54009 -- sansman
 }
